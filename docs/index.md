@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Mobile ID docs"
+  text: ""
+  tagline: welcome to Mobile ID developer hub
   actions:
     - theme: brand
       text: Markdown Examples

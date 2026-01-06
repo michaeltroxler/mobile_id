@@ -1,0 +1,24 @@
+:root {
+  --vp-c-brand-1: #008C95;
+  --vp-c-brand-2: #00A1AA;
+  --vp-c-brand-3: #007C84;
+  --vp-c-bg: #ffffff;
+  --vp-font-family-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Global container overrides */
+.mobileid-layout {
+  background-color: var(--vp-c-bg);
+  font-family: var(--vp-font-family-base);
+  color: #222;
+}
+
+/* Buttons, code blocks, etc. */
+.vp-doc a {
+  color: var(--vp-c-brand);
+}
+
+/* Adjust code coloration */
+.vp-code {
+  border-radius: 6px;
+}
